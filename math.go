@@ -1,17 +1,17 @@
 package math_test
 
-func add(a, b int) int {
+func Add(a, b int) int {
 	return a + b
 }
 
-func sub(a, b int) int {
+func Sub(a, b int) int {
 	return a - b
 }
 
-func mul(a, b int) int {
+func Mul(a, b int) int {
 	return a * b
 }
 
-func div(a, b int) int {
+func Div(a, b int) int {
 	return a / b
 }
