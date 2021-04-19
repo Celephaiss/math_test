@@ -1,3 +1,3 @@
-module git.sogou-inc.com/ailu/math_test
+module github.com/Celephaiss/math_test
 
 go 1.15
